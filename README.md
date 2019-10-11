@@ -1,1 +1,4 @@
-# d_mcfarlane_m_settimi_midterm
+# conflict change through read me 
+## authors
+- dtm - catsSection
+- ms - dogsSection
