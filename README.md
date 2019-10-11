@@ -10,10 +10,15 @@ We are creating a website to decide if cats or dogs are better. We got into deta
 ## Built with:
 - Html
 
-## Installion
+## Installation
 just `Cd` to the place you want the file then `git clone` and the file will be there! :)
 
+## License 
+MIT
+
 ## Authors 
-- dtm - cats_section
-- ms - dogs_section
+- David McFarlane - cats_section
+- Marisa Settimi - dogs_section
+
+
 
