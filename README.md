@@ -1,7 +1,7 @@
 
 ![cattouchingdog](images/catsvsdogsbanner.jpeg)
 
-##all about cats vs dogs 
+## all about cats vs dogs 
 -A clash of the greatest philosophies 
 
 ## requirements
