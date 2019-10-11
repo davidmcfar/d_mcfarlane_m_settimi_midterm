@@ -1,10 +1,10 @@
 
 ![cattouchingdog](images/catsvsdogsbanner.jpeg)
 
-## all about cats vs dogs 
--A clash of the greatest philosophies 
+## All about cats vs dogs 
+- A clash of the greatest philosophies 
 
-## requirements
+## Requirements
 - use a browser that is mordern 
 
 ## Built with:
@@ -13,7 +13,7 @@
 ## Installion
 just `Cd` to the place you want the file then `git clone` and the file will be there! :)
 
-## authors 
+## Authors 
 - dtm - cats_section
 - ms - dogs_section
 
