@@ -1,7 +1,8 @@
 
 ![cattouchingdog](images/catsvsdogsbanner.jpeg)
-#all about cats vs dogs 
-A clash of the greatest philosophies 
+
+##all about cats vs dogs 
+-A clash of the greatest philosophies 
 
 ## requirements
 - use a browser that is mordern 
@@ -15,5 +16,4 @@ just `Cd` to the place you want the file then `git clone` and the file will be t
 ## authors 
 - dtm - cats_section
 - ms - dogs_section
-
 
